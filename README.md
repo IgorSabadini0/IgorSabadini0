@@ -1,23 +1,9 @@
-## Olá, eu sou o Igor Sabadini👋
+## Hi, I'm Igor 👋
 
-<p align="left">
-  Sou um jovem entusiasta de tecnologia e desenvolvimento web, atualmente cursando o Ensino Médio e o técnico de Informática para Internet. Estou sempre em busca de aprender coisas novas e aplicar meu conhecimento em projetos práticos.
-</p>
+- 🧠 WEB Developer at ETEC
+- 🌱 Learning Figma for Web UI/UX Design at Udemy
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/98/04/2b/98042b56aedfee79074845653826f259.webp" width="150px"/>
-</div>
+#### Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-- 🔭 Hoje trabalho com HTML e CSS
-- 🌱 Estudando JavaScript e recursos de Design
-- 😄 Pronomes: Ele / Dele
-
-## 📊 Minhas Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/IgorSabadini0">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorSabadini0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSabadini0&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
-
+[![](https://visitcount.itsvg.in/api?id=igorsabadini0&icon=0&color=0)](https://visitcount.itsvg.in)
