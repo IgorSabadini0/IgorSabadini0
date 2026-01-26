@@ -1,9 +1,12 @@
-## Hi, I'm Igor 👋
+# Hi, I'm Igor 👋
 
-- 🧠 WEB Developer
-- 🧑‍💻 Systems developer
-- 🌱 Learning Figma for Web UI/UX Design at Udemy
-- 🛠️ My Skillset: <br>
+## 🎓 Education
+* Technical Degree in Informatics for Internet – ETEC (In progress)
+* Technical Degree in Systems Development – ETEC (In progress)
+* 🌱 Learning Figma for Web UI/UX Design at Udemy
+  ---
+* 🛠️ My Skillset:
+- <br>
   <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
