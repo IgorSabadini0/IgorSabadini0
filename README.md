@@ -3,8 +3,10 @@
 ## 🎓 Education
 * Technical Degree in Informatics for Internet – ETEC (In progress)
 * Technical Degree in Systems Development – ETEC (In progress)
-* Leraning Figma for Web UI/UX Design at Udemy
+* Learning Figma for Web UI/UX Design at Udemy
+  
   ---
+  
 * 🛠️ My Skillset:
 <br>
   <div align="left">
