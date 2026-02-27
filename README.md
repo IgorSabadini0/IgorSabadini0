@@ -1,5 +1,7 @@
 # Hi, I'm Igor 👋
 
+Backend & Web Developer in training. I build **REST APIs**, work with **databases**, and enjoy turning ideas into simple, reliable systems.
+
 ## 🎓 Education
 * Technical Degree in Informatics for Internet – ETEC (In progress)
 * Technical Degree in Systems Development – ETEC (In progress)
@@ -16,6 +18,8 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" style="pointer-events: none;" />
     <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"/>
+    <img width="12">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" style="pointer-events: none;" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" height="40" alt="node.js logo" style="pointer-events: none;" />
