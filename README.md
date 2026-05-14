@@ -1,6 +1,6 @@
-# Hi, I'm Igor 👋
+# Igor Sabadini - Dev Backend & WEB - 🇧🇷
 
-Backend & Web Developer in training. I build **REST APIs**, work with **databases**, and enjoy turning ideas into simple, reliable systems.
+**English: Intermediate 🇺🇸**
 
 ## 🎓 Education
 * Technical Degree in Informatics for Internet – ETEC (In progress)
