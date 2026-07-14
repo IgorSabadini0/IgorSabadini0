@@ -1,6 +1,6 @@
 # Igor Sabadini - Dev Backend & WEB - <img src="https://cdn.countryflags.com/thumbs/brazil/flag-waving-500.png" height="28" style="vertical-align: middle; margin-bottom: 4px;" alt="Brasil" />
 
-**English level: Intermediate 🇺🇸**
+**English level: Intermediate - <img src="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-waving-500.png" height="19" alt="EUA" />**
 
 ## 🎓 Education
 * Technical Degree in Informatics for Internet – ETEC (In progress)
