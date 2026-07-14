@@ -1,4 +1,4 @@
-# Igor Sabadini - Dev Backend & WEB - 🇧🇷
+# Igor Sabadini - Dev Backend & WEB - <img src="https://cdn.countryflags.com/thumbs/brazil/flag-waving-500.png" height="28" style="vertical-align: middle; margin-bottom: 4px;" alt="Brasil" />
 
 **English level: Intermediate 🇺🇸**
 
