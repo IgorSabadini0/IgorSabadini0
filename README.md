@@ -55,11 +55,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio logo" />
   <img width="12" />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/logos:expo-icon.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" />
-    <img src="https://api.iconify.design/logos:expo-icon.svg" height="40" alt="Expo logo" />
-  </picture>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" height="40" alt="Expo logo" />
 </div>
 
 ### Design & Productivity
